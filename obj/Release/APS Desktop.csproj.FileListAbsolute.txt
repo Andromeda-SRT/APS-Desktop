@@ -1,0 +1,22 @@
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\bin\Release\CAS_ControlAccessSystem_database.mdf
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\bin\Release\CAS_ControlAccessSystem_database_log.ldf
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\bin\Release\APS Desktop.exe.config
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\bin\Release\APS Desktop.exe
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\bin\Release\APS Desktop.pdb
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\obj\Release\APS Desktop.csprojAssemblyReference.cache
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\obj\Release\APS_Desktop.AboutForm.resources
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\obj\Release\APS_Desktop.AddEmployeForm.resources
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\obj\Release\APS_Desktop.AddSubDataDepartmentForm.resources
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\obj\Release\APS_Desktop.DepartmentCreateForm.resources
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\obj\Release\APS_Desktop.DepartmentEditForm.resources
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\obj\Release\APS_Desktop.DepartmentsInfoForm.resources
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\obj\Release\APS_Desktop.EmployeInfoForm.resources
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\obj\Release\APS_Desktop.AutorizationForm.resources
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\obj\Release\APS_Desktop.MainForm.resources
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\obj\Release\APS_Desktop.PeopleInfoForm.resources
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\obj\Release\APS_Desktop.Properties.Resources.resources
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\obj\Release\APS_Desktop.SettingForm.resources
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\obj\Release\APS_Desktop.UpdateSubDataDepartmentForm.resources
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\obj\Release\APS Desktop.csproj.GenerateResource.cache
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\obj\Release\APS Desktop.exe
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Desktop\obj\Release\APS Desktop.pdb
